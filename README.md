@@ -1,2 +1,5 @@
 # Hello-world
-Juste another repository
+Hi guys.
+
+Omar here , i am student and love my spéciality data processing , 
+
